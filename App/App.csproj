@@ -8,7 +8,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+	<ProjectReference Include="..\Lib\Lib.csproj" />
+  </ItemGroup>
+	
+  <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" />
   </ItemGroup>
+
 
 </Project>
