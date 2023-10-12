@@ -8,6 +8,5 @@
 
   <ItemGroup>
     <PackageReference Include="NuGet.Commands" />
-  <ItemGroup>
-
+  </ItemGroup>
 </Project>
